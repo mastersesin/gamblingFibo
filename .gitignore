@@ -1,0 +1,6 @@
+.venv
+app.log
+test.py
+__pycache__
+profile/*
+.idea
